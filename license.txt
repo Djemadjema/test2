@@ -1,0 +1,11 @@
+Model Information:
+* title:	Scene Moebius
+* source:	https://sketchfab.com/3d-models/scene-moebius-c7be08ae092c4484a15be70b724370c3
+* author:	tutorso (https://sketchfab.com/tutorso)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Scene Moebius" (https://sketchfab.com/3d-models/scene-moebius-c7be08ae092c4484a15be70b724370c3) by tutorso (https://sketchfab.com/tutorso) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
